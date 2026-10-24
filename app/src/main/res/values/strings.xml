@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LUT beta</string>
+    <string name="notification_channel_name">相机自动导入</string>
+    <string name="notification_channel_desc">接收索尼相机上传并套用 LUT</string>
+    <string name="notification_title">LUT beta 正在监听</string>
+    <string name="notification_stop">停止</string>
+    <string name="notification_idle">等待相机上传照片</string>
+    <string name="notification_processing">正在处理 %1$s</string>
+</resources>
